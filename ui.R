@@ -1,10 +1,3 @@
-#To-Do:
-
-## 1) give nice description
-## 2) deploy on git
-## 3) store quotes on a server as opposed to static CSV
-## 4) credit image(s) and quotes
-
 library(shiny)
 library(tidyverse)
 library(shinythemes)
