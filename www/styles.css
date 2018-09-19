@@ -1,0 +1,24 @@
+
+
+body {
+  background: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Georgia', italic;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+  vertical-align: middle;
+}
+
+footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    width:100%;
+    height:100px;
+    background-image: url("mountain_PNG18.png");
+    background-size: 100% 100%;
+}
